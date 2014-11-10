@@ -1,5 +1,4 @@
-# SixArm.com » Etsy » <br>
-API tools and examples
+# SixArm.com » Etsy » <br> API tools and examples
 
 To get a shop:
 
