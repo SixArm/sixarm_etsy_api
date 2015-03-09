@@ -1,4 +1,4 @@
-# SixArm.com » Etsy » <br> API tools and examples
+# Etsy » <br> API tools and examples
 
 Setup:
 
